@@ -1,6 +1,6 @@
 ### Hello, I'm Raghvendra Kumar! 👋
 
-- 🔭 I’m currently working on IT Companies.
+- 🔭 I’m currently working in IT Companies.
 - 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with My Own Documentation.
