@@ -2,7 +2,7 @@
           ▁ ▂ ▄ ▅ ▆ ▇ █ [̲̅t] [̲̅H] [̲̅e]   [̲̅s] [̲̅O] [̲̅f] [̲̅T] [̲̅w] [̲̅A] [̲̅r] [̲̅E]   [̲̅C] [̲̅h] [̲̅a] [̲̅S] [̲̅e] [̲̅r] [̲̅S]  █ ▇ ▆ ▅ ▄ ▂ ▁
 - 🔭 I’m currently working in IT Company.
 - 🌱 I’m currently learning Java.
-- 👯 I’m looking to collaborate on Amazon.
+- 👯 I’m looking to collaborate on ......
 - 🤔 I’m looking for help with My Own Documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: Twitter - @imraghav98
